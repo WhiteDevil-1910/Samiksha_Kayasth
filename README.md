@@ -18,7 +18,7 @@
 
 ### 🛠️ Tech Stack  
 💻 **Languages**: Python, C++, SQL , C  
-🧠 **ML/AI**: TensorFlow, Keras, Scikit-learn, Pandas  , Matplot , Numpy , OpenCV
+🧠 **ML/AI**: TensorFlow, Keras, Scikit-learn, Pandas, Matplot, Numpy, OpenCV  
 📊 **Finance Tools**: Excel, Financial Modeling basics  
 🌐 **Other**: Git, GitHub, VS Code  
 
